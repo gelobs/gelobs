@@ -9,19 +9,18 @@
 
 ## 👤 Sobre mim
 
-- Homem, 37 anos, cabelo curto, uso óculos e tenho barba  
-- Mais de 15 anos de experiência em tecnologia, com foco anterior em Infraestrutura de TI  
-- Cursando minha segunda graduação em Sistemas de Informação  
-- Realizo cursos de qualificação em desenvolvimento de sistemas e computação em nuvem  
+- Homem, cabelo curto, uso óculos e tenho barba.  
+- 16 anos de experiência em tecnologia, com foco anterior em Infraestrutura.
+- Cursando minha segunda graduação em Sistemas de Informação.  
+- Realizo cursos de qualificação em desenvolvimento de sistemas e computação em nuvem.  
 
 ## 📬 Entre em contato
 
 <p align="left">
   <a href="mailto:fullstack.adbs@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/angelobortolisarto/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/gelobs/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.dio.me/users/fullstack_adbs"><img src="https://img.shields.io/badge/DIO-%23181717.svg?style=plastic" alt="DIO" /></a>
-  <a href="https://github.com/angelosartoneto"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/angelosartoneto/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/gelobs"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ## 📐 Hard Skills
@@ -108,8 +107,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=angelosartoneto&show_icons=true&count_private=true&locale=pt-br&theme=shadow_blue&rank_icon=github&card_width=500" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angelosartoneto&layout=compact&card_width=500&theme=shadow_blue" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=gelobs&show_icons=true&count_private=true&locale=pt-br&theme=shadow_blue&rank_icon=github&card_width=500" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gelobs&layout=compact&card_width=500&theme=shadow_blue" />
 </p>
 
 <br>
