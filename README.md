@@ -1,6 +1,6 @@
 <h1 align="center">
   Olá! Me chamo Angelo.
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3FnZDh0MjdrcmEweXBuczh4MGFramlubTJvajUzYTBnZDNnN2ZmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YRMb6dd7zprS00JdGZ/giphy.gif" width="180" height="80" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnduOHc1ODFmdm42eWk5Mm85eHVtNzZvdmZvOXAzMWNmMHE5YWVocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/2UCtFUxzfgTuTdo9va/giphy.gif" width="180" height="80" />
 </h1>
 
 <p align="center">
